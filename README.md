@@ -2,10 +2,10 @@
 
 ## Seja muito bem vindo!
 
-Esse desafio busca testar com conhecimentos em SQL e em ferramentas de conteinerização. Para concluí-lo você precisarar levantar um conteiner de banco de acordo com o arquivo na pasta **/src**, criar tabelas, alimentá-las e executar querys de análise.
+Esse desafio busca testar seus conhecimentos em SQL e em ferramentas de conteinerização. Para concluí-lo você precisarará levantar um contêiner de banco de acordo com o arquivo na pasta **/src**, criar tabelas, alimentá-las e executar querys de análise.
 
 ## Estudo de caso
-Você é um analista da CBF e precisa criar análises que ajudem a entender a performance dos times de jogadores no Campeonato Brasileiro. Você precisará provividenciar 3 relatórios:
+Você é um analista da CBF e precisa criar análises que ajudem a entender a performance dos times de jogadores no Campeonato Brasileiro. Você precisará providenciar 3 relatórios:
 
 ### 1. Resumo das partidas, contendo:
 - Id da partida
@@ -22,7 +22,7 @@ Você é um analista da CBF e precisa criar análises que ajudem a entender a pe
 - Quantidade de cartões recebidos pelo clube visitante
 - Quantidade de cartões recebidos totais
 
-### 2. Maiores artileiros, contendo em ordem decrescente:
+### 2. Maiores artilheiros, contendo em ordem decrescente:
 - Nome do Jogador
 - Time do Jogador
 - Quantidade de gols marcados pelo jogador
@@ -57,4 +57,4 @@ Com o DBMS da sua preferencia, acesse o banco criado na etapa anterior e crie as
 Agora com as tabelas criadas monte querys que permitam responder os pontos necessários nos relatórios pedidos pelo estudo de caso e substitua o conteúdo dos arquivos na pasta **/querys** com suas respectivas consultas.
 
 ## Contato
-Em caso de dúvidas ou dificuldades, basta entrar em contato com a pessoa responsável pelo seu processa seletivo. Em caso de necessidade, algum membro do time de engenharia será alocado para te ajudar.
+Em caso de dúvidas ou dificuldades, basta entrar em contato com a pessoa responsável pelo seu processo seletivo. Em caso de necessidade, algum membro do time de engenharia será alocado para te ajudar.
