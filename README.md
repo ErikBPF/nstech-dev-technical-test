@@ -51,10 +51,16 @@ Se nenhum erro tiver aparecido, você terá levantado um banco de dados com as s
 Caso esse terminal seja fechado o banco irá parar de funcionar.
 
 ### 2. Criação das tabelas
-Com o DBMS da sua preferencia, acesse o banco criado na etapa anterior e crie as tabelas **partidas**, **gols** e **cartoes** de acordo com os arquivos da pasta **/data**. Depois de criar as tabelas, alimente-as com o conteúdo dos CSVs correspondentes.
+Com o DBMS da sua preferencia, acesse o banco criado na etapa anterior e crie as tabelas **partidas**, **gols** e **cartoes** de acordo com os arquivos da pasta **/data**. 
 
-### 3. Criação dos relatórios
+### 3. Alimentação das tabelas
+Depois de criar as tabelas, será necessário alimentá-las com o conteúdo dos CSVs correspondentes. Desenvolva uma classe que carregue esses dados e coloque-a no arquivo **data-loader.py** na pasta **/src**. Caso seja necessária a instalação de alguma lib, preencha-a no arquivo **requirements.txt**.
+
+### 4. Criação dos relatórios
 Agora com as tabelas criadas monte querys que permitam responder os pontos necessários nos relatórios pedidos pelo estudo de caso e substitua o conteúdo dos arquivos na pasta **/querys** com suas respectivas consultas.
 
+
+##
+O resultado deve ser entregue em forma de uma nova branch no repositório disponibilizado pela pessoa responsável pelo seu processo seletivo. Quando concluir, envie um PR no repositório e informe a pessoa responsável. Não serão aceitos PR ou commits na branch realizados após o prazo limite
 ## Contato
 Em caso de dúvidas ou dificuldades, basta entrar em contato com a pessoa responsável pelo seu processo seletivo. Em caso de necessidade, algum membro do time de engenharia será alocado para te ajudar.
