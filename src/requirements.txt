@@ -1,0 +1,5 @@
+#Necessária a instalação da bibliota psycopg2 para o uso de comandos SQL, no caso na máquina virtual Linux
+pip install psycopg2
+
+#Para a análise dos tipos de dados nos arquivos '.csvs' fornecidos foi usada a biblioteca pandas para python
+pip install pandas #para a criação das tabelas
