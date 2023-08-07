@@ -1,0 +1,4 @@
+Foi necessária a instalação da lib Pandas.
+- Para manipulação das tabelas
+Foi necessária a instalação da lib Numpy
+- Para substituir valores NaN em None
